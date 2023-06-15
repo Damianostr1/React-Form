@@ -1,8 +1,9 @@
-#React Form Application
-##Overview:
+# React Form Application
+
+## Overview:
 This repository contains a React-based form component that can be easily integrated into your web applications. The form is designed to collect user input efficiently and provide a smooth user experience.
 
-##Features
+## Features
 
 Validation: The form includes built-in validation logic to ensure that user input meets the specified criteria. Invalid input is clearly highlighted, helping users correct any mistakes.
 Error handling: In case of any errors during form submission or data processing, meaningful error messages are displayed to the user, enabling them to take appropriate action.
